@@ -1,57 +1,15 @@
-
-# Project Title
-
-Trial for Web Development session on 6th Sept 2025 from Be10X
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+# 💫 About Me:
+Knowledge Enthusiast 
 
 
-## API Reference
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ kapil-mestry-14a809b0/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kapilalpop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kapilalpop&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilalpop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### Get all items
+---
+[![](https://visitcount.itsvg.in/api?id=kapilalpop&icon=0&color=0)](https://visitcount.itsvg.in)
 
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-
-## Appendix
-
-Any additional information goes here
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
